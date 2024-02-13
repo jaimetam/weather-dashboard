@@ -8,7 +8,8 @@ we where tasked to create a weather dashboard that displays the wether in real t
 - type city name and search 
 
 
-## img 
+## img ![Screenshot (30)](https://github.com/jaimetam/weather-dashboard/assets/151596070/dd78f913-2ba8-4ded-8dee-c729dde7b38c)
+
 
 ## Link
 
